@@ -3,10 +3,12 @@ a repository of projects I have embarked upon to learn more, not prompted by sch
 
 contents:
 
-Sorting algorithms, made to gain experience in each one and to acquire metrics on their performance.
-Bogo sort (not particularly useful, but this was the first made)
-bubble sort
-insertion sort
-merge sort
-selection sort
-shell sort
+Sorting algorithms, made to gain experience in each one and to acquire metrics on their performance.  
+Bogo sort (not particularly useful, but this was the first made)  
+bubble sort  
+insertion sort  
+merge sort  
+selection sort  
+shell sort  
+quick sort  
+
