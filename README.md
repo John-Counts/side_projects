@@ -11,4 +11,5 @@ merge sort
 selection sort  
 shell sort  
 quick sort  
+quick3 sort  
 
